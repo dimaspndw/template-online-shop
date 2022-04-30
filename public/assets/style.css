@@ -1,0 +1,54 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5f5f5;
+}
+
+section{
+    padding-top: 8.5em;
+    padding-bottom: 3em;
+}
+
+#produk{
+    padding-bottom: 5em;
+}
+
+input.form-control.search {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.btn-search {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 1px solid white;
+    color: white;
+}
+
+.text-title{
+    font-size: 15px;
+    font-weight: bold;
+    color: #0099ff !important;
+}
+
+.card{
+    border: none !important;
+}
+
+.card-item{
+    border: 1px solid rgba(0,0,0,.125) !important;
+}
+
+.card-header{
+    background-color: white !important;
+}
+
+.card-penjualan{
+    background: none !important;
+    padding: 0em !important;
+}
+
+.card-produk{
+    border: 1px solid rgba(0,0,0,.125) !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
